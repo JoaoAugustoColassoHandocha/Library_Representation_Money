@@ -4,6 +4,12 @@ The decimal library provides floating point numbers with arbitrary precision. Th
 
 ##
 
+The result passed on by the system is:
+
+![Result]()
+
+##
+
 For the library to work, it is first necessary to import it using the following command:
 
 ```
@@ -16,11 +22,11 @@ from decimal import Decimal
 Another example for using the library would be the following code:
 
 ```
-earnings_of_month = Decimal('99.91') * 5
+earnings_of_month = Decimal('90.90') * 5
 
 print(f'\nEarnings of month: {earnings_of_month}\n')
 
-expenses_of_month = Decimal('110.1') * 3
+expenses_of_month = Decimal('100.1') * 3
 
 print(f'Expenses of month: {expenses_of_month}\n')
 
