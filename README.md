@@ -6,7 +6,7 @@ The decimal library provides floating point numbers with arbitrary precision. Th
 
 The result passed on by the system is:
 
-![Result]()
+![Result](https://github.com/JoaoAugustoColassoHandocha/Library_Representation_Money/blob/main/Screenshot_2.png)
 
 ##
 
