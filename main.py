@@ -10,8 +10,8 @@ from decimal import decimal
 
 os.system('color 1f')
 
-a = Decimal('0.10')
-b = Decimal('0.70')
+a = decimal('0.10')
+b = decimal('0.70')
 
 print(f'\n${a + b}\n')
 
