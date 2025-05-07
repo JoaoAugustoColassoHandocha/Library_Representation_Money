@@ -6,12 +6,12 @@ Library for using money representation in financial systems code
 '''
 
 import os
-from decimal import decimal
+from decimal import Decimal
 
 os.system('color 1f')
 
-a = decimal('0.10')
-b = decimal('0.70')
+a = Decimal('0.10')
+b = Decimal('0.70')
 
 print(f'\n${a + b}\n')
 
